@@ -1,8 +1,12 @@
 # Titanic-Survival-Prediction-Model
 
-A trained Random Forest Classifier that predicts the survival of a boarder on the titanic ship based on the attributes of the person such as their age, sex, passanger class etc. using scikit-learn.  
+A Random Forest Classifier pipeline that predicts the survival of a boarder on the titanic ship based on the attributes of the person such as their age, sex, passanger class etc. using scikit-learn.  
 
-The primary goal was to obtain experience of data mining, feature engineering, model selection, hyperparameter tuning and other essential practices required to train a efficient machine learning model.  
+The primary goal was to obtain experience on data mining, feature engineering, model selection, hyperparameter tuning and other essential practices required to train a efficient machine learning model.  
+
+The score I got on the submission is decent but certainly can be improved. However, I think the main purpose of working on dummy datasets is to learn stuff from them, not to master that dataset, so I am going to conclude the work on this dataset here.  
+
+![Image](https://github.com/user-attachments/assets/16443f9e-ee18-49d3-a14d-48fdd9cc5089)
 
 [KAGGLE Titanic-Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)
 
